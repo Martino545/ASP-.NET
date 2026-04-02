@@ -1,0 +1,6 @@
+AI agent usage log
+===================
+
+2026-04-02 15:xx - user requested git upload instructions
+2026-04-02 15:xx - user reported push rejected; provided pull/rebase workflow
+2026-04-02 15:xx - user asked to add lab-1 folder and upload this log
